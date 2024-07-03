@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action = "/contact-me">               <!--Action = used to give the links like creat submit button etc....-->
+        Username : <input type = "text" placeholder="E-Mail" required = ""> <br>     <!--input = what we input the text , placeholder = it gives the hint what we have to write in that input.-->
+        Password : <input type = "password"> <br>         <!--required = it must be mentioned.-->
+        <input type="Submit"> <br>
+        <input type="text" name="Username" value="Teena"> <br>
+        <label for="username">Username : </label>           <!--label use to add texts in description and directly connects to id for specific the texts.-->
+        <input type="text" id="username" name="username"> <br>
+        Date :  <input type="date"> <br>
+        File : <input type="file"> <br>
+        Color : <input type="color"> <br>
+        Range: <input type="range"> <br>
+        Button : <input type="button" value="click me"> <br>  <!--radio button is used to choice to join single in multiple option-->
+        <label for="Male">Male</label>
+        <input type="radio" id="male" name="gender"><br>
+        <label for="female">Female</label>
+        <input type="radio" id="female" name="gender"> <br>
+        <label for="other">Other</label>
+        <input type="radio" id="other" name="gender"> <br>
+        <label for="C">C</label>
+        <input type="checkbox" name="c" id="c"> <br>
+        <label for="java">Java</label> 
+        <input type="checkbox" name="java" id="java"> <br>
+        <label for="c++">C++</label>
+        <input type="checkbox" name="c++" id="c++"><br>
+        <label for="Fruits">Fruits</label>
+        <select id="fruits" name="fruits">
+            <option value="apple">Apple</option>
+            <option value="grapes">Grapes</option>
+            <option value="orange">orange</option>
+            <!--I-FRAME =  it is used to input the another website in the given form.-->
+            <iframe width="300" height="200" src="https://www.youtube.com/embed/rklidcZ-aLU?si=7KKVA6_hKELDGbYM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </form>
+</body>
+</html>
