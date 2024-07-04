@@ -1,0 +1,19 @@
+.bg-container{
+    background-image: url("https://imgs.search.brave.com/CymD0lUE3KxE16H4qh-rIWm-s-6fTWYFsmxEeJEBkz4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzA2Lzk4LzA5LzIy/LzM2MF9GXzY5ODA5/MjIwOF9Icm5ZY0Zj/ZkZkY05xS2lBYnVh/blVmUkc0VGI0dGVi/Ti5qcGc");
+    height: 100vh;
+    background-size: cover;
+    padding:220px;
+}
+.c-container{
+    border-color: #48ee59;
+    background-color:#00000080;
+    border-style: solid;
+    padding:55px;
+    border-width:8px;
+}
+.head{
+    color:#ffffff;
+    text-align: center;
+    font-family: Bree Serif;
+    font-size:45px;
+}
