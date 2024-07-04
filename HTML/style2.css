@@ -1,0 +1,44 @@
+.bg-container{
+    background-image:url("https://cdn.wallpapersafari.com/75/88/2i1JNd.jpg");
+    background-size:cover;
+    height:100vh;
+}
+.head{
+    font-family: Roboto;
+    color:#ffffff;
+    background-color: #323f4b;
+    text-align: center;
+    padding:10px;
+}
+.card-container{
+    padding:15px;
+    margin:5px;
+}
+.sent{
+    text-align: right;
+    color:#ffffff;
+    background-color:#47a3f3;
+    font-family:Roboto;
+    font-size:15px;
+    border-top-right-radius: 16px;
+    border-top-left-radius: 16px;
+    border-bottom-left-radius: 16px;
+    padding:15px;
+    margin:5px;
+    font-size:20px;
+    margin: 10px;
+}
+.recieved{
+    text-align: left;
+    color:#ffffff;
+    background-color:#52606d;
+    font-family:Roboto;
+    font-size:15px;
+    border-top-right-radius: 16px;
+    border-top-left-radius: 16px;
+    border-bottom-right-radius: 16px;
+    padding:15px;
+    margin:5px;
+    font-size:20px;
+    margin: 10px;
+}
