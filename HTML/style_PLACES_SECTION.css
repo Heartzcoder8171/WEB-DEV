@@ -1,0 +1,38 @@
+.bg-container{
+    background-image: url("https://imgs.search.brave.com/ln-R3Cw04alfFru9TvndveocN6H_zte94jXcjnSlcOU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzA3Lzc0Lzc0LzQ1/LzM2MF9GXzc3NDc0/NDU3Ml9sa2JkZTZO/QnVadjdQV0dZQlFw/S0dXOElCUk1sSE85/aS5qcGc");
+    height:200vh;
+    background-size:cover;
+}
+.head{
+    font-family: Roboto;
+    font-size:35px;
+    padding:15px;
+    font-weight:bold;
+    color:#ffffff;
+}
+.c-container{
+    background-color: #ffffff;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin:25px;
+}
+.image{
+    height:50vh;
+    padding:20px;
+}
+.head1{
+    font-family: Roboto;
+    font-size: 30px;
+    padding:15px;
+    color:black;
+    font-weight: bold;
+}
+.para{
+    font-family: Roboto;
+    font-size: 25px;
+    padding: 15px;
+    color:rgb(58, 88, 131);
+}
+.text-container{
+    padding:15px;
+}
