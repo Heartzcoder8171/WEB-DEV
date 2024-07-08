@@ -1,0 +1,39 @@
+.bg-container{
+    background-image: url("https://imgs.search.brave.com/5xXwYdenO5vMu1dzNM2ICLrCGB-SSp6UoDPA5WF_P7Y/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzA0LzYxLzgzLzUy/LzM2MF9GXzQ2MTgz/NTI2OF85MlM2ZTZx/VmtwQzZyeGNlT09k/RDdHcEpGQUJrSHJO/bS5qcGc");
+    background-size:cover;
+    height:40vh;
+}
+.head{
+    color:#ffffff;
+    font-size: 30px;
+    font-family: Caveat;
+    padding:30px;
+    width:140px;
+    font-size:40px;
+}
+.bottom-container{
+    background-color:#e6f6ff;
+    padding:10px;
+    text-align: center;
+}
+.image{
+    height:57px;
+}
+.head1{
+    font-family: Roboto;
+    color:rgb(240, 56, 86);
+    font-size:20px;
+}
+.para{
+    font-family: Roboto;
+    font-size: 25px;
+    font-weight: bold;
+}
+.c-container{
+    text-align: center;
+    padding:5px;
+    margin:10px;
+    width:100px;
+    background-color: #ffffff;
+    border-radius: 15px;
+}
