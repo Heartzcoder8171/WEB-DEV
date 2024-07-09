@@ -1,0 +1,82 @@
+.bg-container{
+    background-color:#ffffff;
+    border-color:#0967d219;
+}
+.head{
+    font-family: Roboto;
+    font-size:30px;
+    color: #323f4b;
+    padding:15px;
+}
+.btn{
+    padding:10px;
+    margin:5px;
+    background-color: #0967d2;
+    border-radius: 8px;
+    color:#ffffff;
+}
+.image{
+    height:130px;
+    width:280px;
+    padding:5px;
+    margin:10px;
+}
+.c-header{
+    margin:10px;
+}
+.b-con{
+    border-radius: 20px;
+    padding:10px;
+    margin:15px;
+}
+.cg-color{
+    background-color:#1372df19;
+}
+.head1{
+    color:rgb(136, 0, 255);
+    font-family:Roboto;
+    font-size:25px;
+    padding:3px;
+}
+.text-con{
+    padding:15px;
+}
+.para{
+    color:#f81111;
+    font-size: 20px;
+    font-family: Roboto;
+}
+.head2{
+    padding:5px;
+    color:#323f4b;
+    font-family: Roboto;
+    font-size:28px;
+    margin:5px;
+}
+.cough-container{
+    border-radius:10px;
+    margin:15px;
+    padding:5px;
+}
+.cough{
+    color:#ffffff;
+    font-size: 20px;
+    font-family: Roboto;
+}
+.cough-color{
+    background-color:#3ebd93;
+}
+.image_1{
+    margin:10px;
+    padding:10px;
+    height:60px;
+}
+.fever-color{
+    background-color: #e668a7;
+}
+.Head-color{
+    background-color:rgb(119, 15, 119);
+}
+.vg-color{
+    background-color: rgb(233, 122, 141); 
+}
