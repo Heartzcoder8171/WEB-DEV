@@ -1,0 +1,29 @@
+.bg-container{
+    background-image: url("https://imgs.search.brave.com/ofHyNnJFqYb9fA4wnSFhKKane1VucaFkGaB138pajSw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAwLzgwLzcyLzkw/LzM2MF9GXzgwNzI5/MDcwX0ZnNTg4eURY/aGdmelRtTW1LQUNj/T0NZNzNMZW0yOVE3/LmpwZw");
+    height:100vh;
+    background-size:cover;
+}
+.card-container{
+    background-color: #ffffff;
+    border-top-left-radius: 18px;
+    border-top-right-radius: 18px;
+    padding:5px;
+}
+.head{
+    color:#323f4b;
+    font-family:Roboto;
+    font-size:20px;
+}
+.para{
+    color:#7b8794;
+    font-size:25px;
+    font-family: Roboto;
+}
+.button{
+    background-color:#323f4b;
+    color:#ffffff;
+    font-family: Roboto;
+    font-size:15px;
+    padding:5px;
+    border-radius:8px;
+}
