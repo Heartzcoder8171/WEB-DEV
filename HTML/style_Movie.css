@@ -1,0 +1,44 @@
+.bg-container{
+    background-color:orange;
+    background-size:cover;
+    height:100vh;
+}
+.image{
+    padding:30px;
+    height:50vh;
+    width:50vw;
+    border-radius: 10px 10px 10px 10px;
+}
+.heading-container{
+    margin-top:10px;
+    margin-bottom:10px;
+}
+.head{
+    padding:10px;
+    font-family: Roboto;
+    font-size: 30px;
+    color:#ffffff;
+}
+.para{
+    padding:5px;
+    font-size: 20px;
+    font-family:Roboto;
+    color:#ffffff;
+    margin:5px;
+}
+.button{
+    color:#ff8348;
+    padding:5px;
+    margin:10px;
+    font-family:Roboto;
+    font-size:15px;
+    border-radius:10px;
+    background-color:#ffffff;
+}
+.image1{ 
+    margin: 5px;
+    padding:10px;
+    height:90px;
+    width:90px;
+    border-radius:16px;
+}
