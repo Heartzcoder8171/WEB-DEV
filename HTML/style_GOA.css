@@ -1,0 +1,30 @@
+.head{
+    color:#323f4b;
+    font-size: 25px;
+    font-family: Roboto;
+    padding:10px;
+}
+.para{
+    color:#9aa5b1;
+    font-size: 20px;
+    font-family: Roboto;
+    padding:5px;
+}
+.card-container{
+    padding:10px;
+    margin:5px;
+}
+.image{
+    margin: 5px;
+    padding:10px;
+    height:90px;
+    width:90px;
+    border-radius:16px;
+}
+.vedio-container{
+    margin:5px;
+    padding:10px;
+    height:80px;
+    width:90px;
+    border-radius:16px;
+}
