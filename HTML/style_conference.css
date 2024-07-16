@@ -1,0 +1,54 @@
+.conference-container{
+    padding:10px;
+    margin:3px;
+    text-align:center;
+}
+.image{
+    height:60vh;
+    background-size:cover;
+    width:100vw;
+}
+.conference-heading{
+    font-family:Roboto;
+    font-size:40px;
+    color:#183b56;
+    padding:10px;
+    margin:5px;
+    font-weight:bold;
+    text-align:center;
+}
+.conference-para{
+    font-family:Roboto;
+    font-size:25px;
+    color:#5a7184;
+    padding:3px;
+    text-align:center;
+    margin:3px;
+}
+.details-container{
+    padding:10px;
+    margin:3px;
+    text-align:center;
+}
+.details-head{
+    font-family:Roboto;
+    font-size:30px;
+    color:#183b56;
+    padding:10px;
+    margin:5px;
+    font-weight:bold;
+    text-align:center;
+}
+.details-para{
+    font-family:Roboto;
+    font-size:25px;
+    color:#5a7184;
+    padding:3px;
+    text-align:center;
+    margin:3px;
+}
+.conference-container-1{
+    padding:10px;
+    margin:3px;
+    text-align:center;
+}
